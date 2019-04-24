@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT new_project_for_testi_743.wsgi:application
